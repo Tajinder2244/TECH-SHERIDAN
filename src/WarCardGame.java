@@ -1,5 +1,10 @@
+/* Group name - TECH SHERIDAN 
+*Serafettin Tarik Bozdemir
+*Tajinder Singh
+*Nicole Iachica
+*Benjamin To
+*/
 import java.util.* ;
-// Group name - TECH SHERIDAN
 public class WarCardGame {
   
   

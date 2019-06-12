@@ -1,4 +1,9 @@
-// Group name - TECH SHERIDAN
+/* Group name - TECH SHERIDAN 
+*Serafettin Tarik Bozdemir
+*Tajinder Singh
+*Nicole Iachica
+*Benjamin To
+*/
 // tester class to call the generator class 
 public class TesterCard
 {
